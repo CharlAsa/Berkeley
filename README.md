@@ -1,12 +1,9 @@
 # Berkeley
-Simulador do algoritmo de Berkeley utilizando socket e threads em Java.
-
-Sobre o algoritmo:
--O servidor envia o tempo dele (horas, minutos e segundos).
-
--O(s) cliente(s) responde(m) com a diferença de tempo.
-
--O servidor calcula a média de tempo somando-os e dividindo pela quantidade de cliente + o servidor.
+Simulador do algoritmo de Berkeley utilizando socket e threads em Java.<br />
+Sobre o algoritmo:<br />
+-O servidor envia o tempo dele (horas, minutos e segundos).<br />
+-O(s) cliente(s) responde(m) com a diferença de tempo.<br />
+-O servidor calcula a média de tempo somando-os e dividindo pela quantidade de cliente + o servidor.<br />
 
 -O servidor envia esse tempo para cada cliente. Obs: Envia de acordo com o tempo do cliente, como mostrado no exemplo abaixo.
 
