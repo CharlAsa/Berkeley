@@ -13,7 +13,9 @@ Sobre o algoritmo:
 -O cliente soma esse tempo com o tempo dele.
 
 Exemplo:
+
 Servidor - 4:10
+
 Cliente - 4:30
 
 -Servidor envia 4:10
