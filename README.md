@@ -5,7 +5,8 @@ Sobre o algoritmo:<br />
 -O(s) cliente(s) responde(m) com a diferença de tempo.<br />
 -O servidor calcula a média de tempo somando-os e dividindo pela quantidade de cliente + o servidor.<br />
 -O servidor envia esse tempo para cada cliente. Obs: Envia de acordo com o tempo do cliente, como mostrado no exemplo abaixo.<br />
--O cliente soma esse tempo com o tempo dele.<br /><br />
+-O cliente soma esse tempo com o tempo dele.<br />
+-O servidor pode conter um limite de tempo que é aceito do cliente, ex: servidor 4:05, cliente 7:00, o calculo do cliente é descartado.<br /><br />
 Exemplo:<br /><br />
 Servidor - 4:10<br />
 Cliente - 4:30<br /><br />
