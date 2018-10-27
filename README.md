@@ -1,5 +1,5 @@
 # Berkeley
-Simulador do algoritmo de Berkeley utilizando socket e threads em Java.<br />
+Simulador do algoritmo de Berkeley utilizando socket e threads em Java para a matéria de Sistemas Distribuidos com o Prof.Eliezio.<br />
 Sobre o algoritmo:<br />
 -O servidor envia o tempo dele (horas, minutos e segundos).<br />
 -O(s) cliente(s) responde(m) com a diferença de tempo.<br />
