@@ -52,4 +52,5 @@ Cli2 - 2:56
 -Ser envia 6 ao Cli2
 
 -Cli1 ajusta seu tempo 3:10 - 0:08 = 3:02
+
 -Cli2 ajusta seu tempo 2:56 + 0:06 = 3:02
